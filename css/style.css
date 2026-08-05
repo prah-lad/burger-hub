@@ -560,7 +560,7 @@ button:focus-visible {
 .sizes li b { font-size: 1.05rem; }
 
 .order-banner {
-  margin-top: 3.2rem;
+  margin: 2.4rem 0 2.2rem;
   text-align: center;
   background: var(--bg);
   border: 1px dashed var(--orange);
@@ -694,7 +694,7 @@ button:focus-visible {
 
 .contact-cards {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 1.1rem;
   align-content: start;
 }
